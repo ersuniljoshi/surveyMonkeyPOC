@@ -9,8 +9,9 @@ Assumptions:
 Pre-requisites:
 ===============
 1. Install Firefox  - sudo apt-get install firefox
-2. Python dependencies - sudo pip install -r requirements.txt.
-3. Used Pycharm Community Edition 5.0.4 edition as IDE.
+2. sudo apt-get install python-pip
+3. Python dependencies - sudo pip install -r requirements.txt.
+4. Used Pycharm Community Edition 5.0.4 edition as IDE.
 
 Install and Run:
 ===============
